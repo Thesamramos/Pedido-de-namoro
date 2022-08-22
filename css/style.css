@@ -1,0 +1,17 @@
+body {
+    background-color: rgb(230, 34, 34);
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    font-size: 50pt;
+}
+
+button {
+    width: 6%;
+    height: 40%;
+    font-size: 20pt;
+    margin: 0 15px;
+    border-radius: 12px;
+}
